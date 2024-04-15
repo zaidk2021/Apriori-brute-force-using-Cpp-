@@ -1,2 +1,2 @@
 # Apriori-brute-force-using-Cpp-
-Frequentitemsets(Apriori brute force using C++)
+Frequentitemsets(Apriori algorithm brute force using C++)
